@@ -1,0 +1,23 @@
+{
+  "name": "egg-tiny",
+  "version": "1.0.0",
+  "description": "create my egg project step by step",
+  "main": "index.js",
+  "scripts": {
+    "test": "egg test",
+    "dev": "egg-bin dev && port=7002"
+  },
+  "keywords": [
+    "egg",
+    "example"
+  ],
+  "author": "jiajia",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.11.0",
+    "egg-view-nunjucks": "^2.2.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.8.5"
+  }
+}

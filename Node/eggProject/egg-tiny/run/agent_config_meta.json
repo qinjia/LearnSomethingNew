@@ -1,0 +1,262 @@
+{
+  "keys": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\config\\config.default.js"
+    },
+    "root": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "news": {
+    "pageSize": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\config\\config.default.js",
+    "serverUrl": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "main": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "test": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+    },
+    "keywords": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "author": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg\\config\\config.default.js"
+}
