@@ -9,7 +9,7 @@ exports.keys = 'egg-tiny_20180912';
 exports.view = {
   defaultViewEngine: 'nunjucks', //渲染模板的插件
     mapping:{
-      '.tpl': 'nunjucks', // 这里写 tpl或者 html有何区别
+      '.tpl': 'nunjucks', // 这里写 tpl或者 html有何区别,默认启用html
     }
 };
 
@@ -17,3 +17,13 @@ exports.news = {
   pageSize: 5,
   serverUrl: 'https://hacker-news.firebaseio.com/v0'
 };
+
+exports.middleware = [
+    'robot'
+];
+
+exports.robot = {
+  ua: [
+      /Baiduspider/i,
+  ]
+}
