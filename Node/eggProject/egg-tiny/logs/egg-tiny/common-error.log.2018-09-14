@@ -1,0 +1,132 @@
+2018-09-14 01:31:31,510 ERROR 6328 nodejs.ClusterClientNoResponseError: client no response in 2226883ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 6328
+hostname: pcecarx07220
+
+2018-09-14 02:41:36,504 ERROR 6328 nodejs.ClusterClientNoResponseError: client no response in 563931ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 6328
+hostname: pcecarx07220
+
+2018-09-14 05:09:28,521 ERROR 9248 nodejs.ServerNoResponseError: server 127.0.0.1:64528 no response in 20100ms, maybe the socket is end on the other side. (address: 127.0.0.1:64528)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ServerNoResponseError"
+pid: 9248
+hostname: pcecarx07220
+
+2018-09-14 09:33:14,507 ERROR 6328 nodejs.ClusterClientNoResponseError: client no response in 14045894ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 6328
+hostname: pcecarx07220
+
+2018-09-14 09:55:39,806 ERROR 9248 [-/::1/-/5044ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\urllib\lib\urllib.js:818:15)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5024,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9248
+hostname: pcecarx07220
+
+2018-09-14 09:55:53,481 ERROR 9248 [-/::1/-/5007ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\urllib\lib\urllib.js:818:15)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5006,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9248
+hostname: pcecarx07220
+
+2018-09-14 10:06:40,766 ERROR 9248 [-/::1/-/5002ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\urllib\lib\urllib.js:818:15)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ConnectionTimeoutError"
+requestId: 3
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5002,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9248
+hostname: pcecarx07220
+
+2018-09-14 12:31:58,507 ERROR 6328 nodejs.ClusterClientNoResponseError: client no response in 190926ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 6328
+hostname: pcecarx07220
+
+2018-09-14 13:37:06,508 ERROR 6328 nodejs.ClusterClientNoResponseError: client no response in 1107849ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 6328
+hostname: pcecarx07220
+
+2018-09-14 17:02:45,513 ERROR 6328 nodejs.ClusterClientNoResponseError: client no response in 187835ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 6328
+hostname: pcecarx07220
+
+2018-09-14 20:43:23,514 ERROR 6328 nodejs.ClusterClientNoResponseError: client no response in 4981766ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 6328
+hostname: pcecarx07220
+
+2018-09-15 07:40:26,515 ERROR 6328 nodejs.ClusterClientNoResponseError: client no response in 37622775ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\2018New\FrontTraining\LearnSomethingNew\Node\eggProject\egg-tiny\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 6328
+hostname: pcecarx07220
+

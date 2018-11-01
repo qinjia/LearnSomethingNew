@@ -15,7 +15,7 @@
   },
   "middleware": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\config\\config.default.js",
   "robot": {
-    "ua": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\config\\config.default.js"
+    "ua": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\config\\config.local.js"
   },
   "session": {
     "maxAge": "E:\\2018New\\FrontTraining\\LearnSomethingNew\\Node\\eggProject\\egg-tiny\\node_modules\\egg-session\\config\\config.default.js",

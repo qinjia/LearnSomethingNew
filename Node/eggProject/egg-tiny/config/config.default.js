@@ -18,12 +18,13 @@ exports.news = {
   serverUrl: 'https://hacker-news.firebaseio.com/v0'
 };
 
-exports.middleware = [
+exports.middleware = [ // 中间件
     'robot'
 ];
 
 exports.robot = {
   ua: [
+      /curl/i,
       /Baiduspider/i,
   ]
 }
