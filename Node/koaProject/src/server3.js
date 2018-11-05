@@ -1,8 +1,10 @@
 /**
- * Created by ecarx on 2018/11/1.
+ * Created by ecarx on 2018/11/2.
  */
 const koa =  require('koa');
 const app = new koa();
+const Router = require('koa-router');
+const router = new Router();
 
 
 
@@ -14,22 +16,20 @@ let requestTime = function (headerName) {
         var ms = end - start;
         this.set(headerName,  ms+'ms');
     }
-    
+
 };
 app.use(requestTime('Response-time'));
 
-app.use(function *() {
-    console.log(this.request);
-    let url = this.request.url;
-    if(url==='/'){
-        this.body = 'Hello from Koa.js!';
-    }else if(url==='/date'){
-        this.body = new Date();
-    }else{
-        this.status = 404;
-        this.body = 'Sorry for not found!';
-    }
+
+router.get('/',function *() {
+    this.body = 'Hello from Koa.js!';
+});
+router.get('/date',function *() {
+    this.body = new Date();
 });
 
+app
+    .use(router.routes())
+    .use(router.allowedMethods());
 
 app.listen(3000);
